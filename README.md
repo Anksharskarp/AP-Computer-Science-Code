@@ -1,6 +1,6 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my code snippets and samples from the EasyFunCoding Advanced I class! These files were created from 2020 to 2021, and are continued to be maintained. Feel free to contact me via GitHub if you have any suggestions for improving my **spaghetti** code. 
 
 ## Folder Structure
 
