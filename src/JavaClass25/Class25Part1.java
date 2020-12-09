@@ -5,7 +5,7 @@ import java.awt.event.*;
 public class Class25Part1 {
     private JFrame frame;
 
-    public Main () {
+    public Class25Part1() {
         frame = new JFrame("DrawGrid");
         frame.setSize(1000, 600);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
@@ -16,14 +16,14 @@ public class Class25Part1 {
     }
 
     public static void main(String... argv) {
-        new Main();
+        new Class25Part1();
     }
 
     public static class cPanel extends JPanel  implements MouseListener {
         /**
          *
          */
-        private static final long serialVersionUID = 1L;
+        private static final long serialVersionUID = -8631708510421141310L;
         int cellSize = 70;
         int turn = 0;
         int rows = 7;
@@ -36,10 +36,9 @@ public class Class25Part1 {
             setSize(dimension);
             addMouseListener(this);
             //1. initialize grid here
-            for (int i = 0; i < rows; i++) 
-                for (int j = 0; j < cols; j++) 
-                    grid[i][j] = Color.white;
-            
+            for (int i = 0 ; i<rows; i++)
+                for (int j = 0 ; j<cols; j++)
+                	grid[i][j] = Color.white;
         }
 
         @Override
@@ -50,20 +49,46 @@ public class Class25Part1 {
             g2.fillRect(0,0,d.width,d.height);
  
             //draw grid here
-            int xPos = 0;
-            int yPos = 0;
-            for (int i = 0; i < rows; i++)
-                for (int j = 0; j < cols; j++) {
-                    g2.setColor(grid[i][j]);
-                    g2.fillOval(xPos, yPos, cellSize);
-                    xPos += cellSize;
+            int xPos=0, yPos=0;
+            for (int i = 0 ; i<rows; i++) {
+                for (int j = 0 ; j<cols; j++) {
+                	g2.setColor(grid[i][j]);
+                	g2.fillOval(xPos, yPos, cellSize, cellSize);
+                	xPos += cellSize;
                 }
+                yPos +=cellSize;
+                xPos =0;
+            }
+      
+            
+            
         }
 
         public void mousePressed(MouseEvent e) {
         	
         	// drop a checker
-          
+            int x = e.getX();
+            int col = x / cellSize;
+            int row = getRow(col);
+
+            turn++;
+            if (turn % 2 == 0) 
+                grid[row][col] = Color.red;
+            else
+                grid[row][col] = Color.yellow;
+            
+            repaint();
+        }
+
+        public int getRow(int col) {
+            int r = rows - 1;
+            while (r >= 0) {
+                if (grid[r][col].equals(Color.white))
+                    return r;
+                r--;    
+            }
+
+            return -1;
         }
 
                 
