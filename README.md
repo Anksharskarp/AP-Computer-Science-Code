@@ -1,3 +1,7 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+
 ## Introduction
 
 Welcome to my code snippets and samples from the EasyFunCoding Advanced I class! These files were created from 2020 to 2021, and are continued to be maintained. Feel free to contact me via GitHub if you have any suggestions for improving my **spaghetti** code. 
