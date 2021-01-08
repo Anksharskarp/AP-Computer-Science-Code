@@ -1,3 +1,5 @@
+package JavaClass7;
+
 import java.awt.*;
 
 import javax.swing.JFrame;

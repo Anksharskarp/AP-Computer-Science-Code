@@ -1,3 +1,5 @@
+package JavaClass4;
+
 import java.awt.*; //Abstract Window Toolkit
 import javax.swing.JFrame; //Generates a window frame in Java
 //Develops GUI in Java

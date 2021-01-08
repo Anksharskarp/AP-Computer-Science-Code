@@ -1,3 +1,5 @@
+package JavaClass16;
+
 public class Class16Part1 {
     
     public static void printPattern(char inner, char outer, int height) {

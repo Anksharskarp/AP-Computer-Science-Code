@@ -1,3 +1,5 @@
+package JavaClass22;
+
 //Java program that removes duplicates char in String
 public class Homework22Part1 {
     public static void main(String[] args) {

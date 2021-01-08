@@ -1,3 +1,5 @@
+package JavaClass12;
+
 public class Homework12Part2 {
     public static void main(String[] args) {
         forwardsHarmonicCalculator(50000);

@@ -1,3 +1,5 @@
+package JavaClass6;
+
 public class Homework6Part2 {
 
     static void pairsValue(int inputArray[], int sumNumber) {

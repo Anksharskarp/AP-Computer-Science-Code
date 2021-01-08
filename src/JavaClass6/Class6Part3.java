@@ -1,3 +1,5 @@
+package JavaClass6;
+
 // Introduction to recursion in Java
 /*
 Recursion is the technique of making a function 

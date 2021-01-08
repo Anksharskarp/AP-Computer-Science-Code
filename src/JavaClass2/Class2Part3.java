@@ -1,4 +1,6 @@
-public class Class2Part3 {
+package JavaClass2;
+
+wpublic class Class2Part3 {
     public static void main(String[] args)
     {
         boolean trueOrFalse = true;

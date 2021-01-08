@@ -1,3 +1,5 @@
+package JavaClass24;
+
 public class Class24Part1 {
     public static void main(String[] args) {
         int [][] pascalTriangle = new int[20][20];

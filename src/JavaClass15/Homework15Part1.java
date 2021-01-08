@@ -1,4 +1,6 @@
-import java.awt.*;       
+package JavaClass15;
+
+import java.awt.*;
 import java.awt.event.*; 
 import javax.swing.*; 
 //Find all numbers between 1-10,000 with the following feature: 

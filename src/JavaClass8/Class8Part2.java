@@ -1,3 +1,5 @@
+package JavaClass8;
+
 public class Class8Part2 {
     public static void main(String[] args) {
         int i = 234567;

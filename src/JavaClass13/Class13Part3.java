@@ -1,3 +1,5 @@
+package JavaClass13;
+
 /*
 We will create a counter program that will start counting by 0's, 1's, 2's, etc.
 The User Interface (UI) will be built using JFrame and other JavaFX graphical

@@ -1,11 +1,18 @@
+package JavaClass5;
+
 import java.awt.*;
 import javax.swing.JFrame; 
 
-public class Class4 extends Canvas{  
+public class Homework5Solution extends Canvas{  
 	
+	/**
+	 *
+	 */
+	private static final long serialVersionUID = -6771293199964973519L;
+
 	public static void main(String[] args) {
 			JFrame frame = new JFrame("My Graph");
-			Canvas c = new Class4();
+			Canvas c = new Homework5Solution();
 			c.setSize(400, 400);
 			frame.add(c);
 			frame.pack();

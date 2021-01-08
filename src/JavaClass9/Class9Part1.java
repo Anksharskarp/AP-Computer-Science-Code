@@ -1,3 +1,5 @@
+package JavaClass9;
+
 public class Class9Part1 {
     public static void main(String[] args) {
         print("Hello, world!");

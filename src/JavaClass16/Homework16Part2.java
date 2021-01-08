@@ -1,4 +1,6 @@
-public  class  Homework16Part2 {
+package JavaClass16;
+
+public class Homework16Part2 {
     public static void main(String[] args) {
 		String s = "mmmine";
 		System.out.println("Original String: "+s);

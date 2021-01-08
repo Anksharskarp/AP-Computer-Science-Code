@@ -1,3 +1,5 @@
+package JavaClass20;
+
 public class Homework20Part2 {
     public static void main(String[] args) {
 

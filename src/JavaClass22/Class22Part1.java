@@ -1,3 +1,5 @@
+package JavaClass22;
+
 public class Class22Part1 {
     public static void main(String[] args) {
         /*

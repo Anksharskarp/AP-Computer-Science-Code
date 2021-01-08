@@ -1,9 +1,10 @@
+package JavaClass16;
+
 /*
 Tic-tac-toe program that is very fun!
 It has a total of 9 buttons that we can use.
 */
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 
 public class Class16Part2 extends JFrame{

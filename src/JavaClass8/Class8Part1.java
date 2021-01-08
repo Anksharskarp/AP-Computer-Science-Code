@@ -1,3 +1,5 @@
+package JavaClass8;
+
 public class Class8Part1 {
     public static void main(String[] args) {
         System.out.println(Integer.MAX_VALUE);

@@ -1,3 +1,5 @@
+package JavaClass5;
+
 public class Class5Part1 {
     public static void main(String[] args) {
         // Program prints Pascal's triangle

@@ -1,3 +1,5 @@
+package JavaClass3;
+
 public class Class3Part7 {
     //Let's get started with methods!
     //Otherwise known as...functions!

@@ -1,3 +1,5 @@
+package JavaClass7;
+
 import java.util.ArrayList;
 
 public class Class7Part3 {

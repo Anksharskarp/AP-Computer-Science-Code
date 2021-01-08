@@ -1,4 +1,6 @@
-public class Class14Part1 {	
+package JavaClass14;
+
+public class Class14Part1 {
 	
     public static void main(String[] args) {
         displayLetterDiamond(20);	   

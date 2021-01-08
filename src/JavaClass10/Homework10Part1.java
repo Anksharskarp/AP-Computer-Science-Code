@@ -1,3 +1,5 @@
+package JavaClass10;
+
 import java.awt.*;
 import java.awt.event.*;
 

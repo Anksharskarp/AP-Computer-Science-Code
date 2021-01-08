@@ -1,3 +1,5 @@
+package JavaClass21;
+
 import java.util.Arrays;
 
 public class Homework21Part1 {

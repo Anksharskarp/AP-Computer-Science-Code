@@ -1,3 +1,5 @@
+package JavaClass3;
+
 public class Class3Part5 {
     public static void main(String[] args) {
         /* The continue statement breaks one iteration

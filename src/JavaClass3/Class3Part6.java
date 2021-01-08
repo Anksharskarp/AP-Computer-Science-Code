@@ -1,3 +1,5 @@
+package JavaClass3;
+
 public class Class3Part6 {
     public static void main(String[] args) {
         int num = 0;

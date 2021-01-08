@@ -1,3 +1,5 @@
+package JavaClass2;
+
 //This is a bmi calculator
 // BMI = 
 import java.util.Scanner;

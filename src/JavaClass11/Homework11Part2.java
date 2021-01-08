@@ -1,3 +1,5 @@
+package JavaClass11;
+
 public class Homework11Part2 {
     public static boolean match(String first, String second) {
         if (first.length() == 0 && second.length() == 0) {

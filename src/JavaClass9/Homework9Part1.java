@@ -1,3 +1,5 @@
+package JavaClass9;
+
 import java.awt.*;
 
 import javax.swing.JFrame;

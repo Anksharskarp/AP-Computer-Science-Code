@@ -1,3 +1,5 @@
+package JavaClass10;
+
 import java.util.Arrays;
 
 public class Homework10Part2 {

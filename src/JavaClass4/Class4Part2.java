@@ -1,3 +1,5 @@
+package JavaClass4;
+
 public class Class4Part2 {
     public static void main(String[] args) {
         String[] food = {"pizza", "ice cream", "burgers", "sub sandwich"};

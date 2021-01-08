@@ -1,3 +1,5 @@
+package JavaClass8;
+
 public class Homework8Part2 {
     public static void main(String[] args) {
         convert2Decimal("101", 2);

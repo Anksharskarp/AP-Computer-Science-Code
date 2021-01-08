@@ -1,3 +1,5 @@
+package JavaClass10;
+
 public class Class10Part2 {
     public static void main(String[] args) {
         /*Examples of exceptions:

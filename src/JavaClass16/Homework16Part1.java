@@ -1,4 +1,6 @@
-import java.awt. * ;
+package JavaClass16;
+
+import java.awt.*;
 import java.awt.event. * ;
 import javax.swing. * ;
 

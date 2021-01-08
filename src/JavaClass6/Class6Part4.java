@@ -1,3 +1,5 @@
+package JavaClass6;
+
 public class Class6Part4 {
     public static void main(String[] args) {
         fun(25);

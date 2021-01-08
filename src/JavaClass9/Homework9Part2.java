@@ -1,3 +1,5 @@
+package JavaClass9;
+
 import java.util.Scanner;
 
 public class Homework9Part2 {

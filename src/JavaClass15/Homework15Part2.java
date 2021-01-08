@@ -1,4 +1,6 @@
-import java.util.Arrays; 
+package JavaClass15;
+
+import java.util.Arrays;
 import java.util.Scanner;
 
 /*

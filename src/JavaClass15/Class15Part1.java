@@ -1,4 +1,6 @@
-import java.awt.*;       
+package JavaClass15;
+
+import java.awt.*;
 import java.awt.event.*; 
 import javax.swing.*; 
 //Find all numbers between 1-10,000 with the following feature: 
@@ -36,7 +38,6 @@ public class Class15Part1 extends JFrame {
 	    count1++; 
 		count2 += 2;
         count3 +=3;
-        String f = field1.getText();
 
 		field1.setText(count1+"");
 		field2.setText(count2+"");

@@ -1,3 +1,5 @@
+package JavaClass19;
+
 /*
 This program creates an automatic voting machine that tallies up 
 votes from clicking on the "Trump" and "Biden" buttons, respectively.

@@ -1,3 +1,5 @@
+package JavaClass10;
+
 import java.util.ArrayList;
 
 public class Class10Part1 {

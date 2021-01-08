@@ -1,3 +1,5 @@
+package JavaClass5;
+
 import java.awt.*;
 import javax.swing.JFrame;
 

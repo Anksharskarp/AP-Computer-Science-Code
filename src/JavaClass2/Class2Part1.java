@@ -1,3 +1,5 @@
+package JavaClass2;
+
 public class Class2Part1 
 {
     public static void main(String[] args)

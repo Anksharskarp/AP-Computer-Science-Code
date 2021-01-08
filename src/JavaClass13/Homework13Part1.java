@@ -1,3 +1,5 @@
+package JavaClass13;
+
 public class Homework13Part1 {
     public static void main(String[] args) {
         //Looks for the narcissistic numbers up to 10,000

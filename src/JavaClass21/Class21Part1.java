@@ -1,3 +1,5 @@
+package JavaClass21;
+
 import java.util.*;
 
 public class Class21Part1 {

@@ -1,3 +1,5 @@
+package JavaClass8;
+
 import java.awt.*;
 
 import javax.swing.JFrame;

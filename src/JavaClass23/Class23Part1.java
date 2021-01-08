@@ -1,3 +1,5 @@
+package JavaClass23;
+
 /*
 This is a simple memory matching game written in Java
 Enjoy!

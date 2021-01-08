@@ -1,3 +1,5 @@
+package JavaClass6;
+
 import java.awt.*;
 
 import javax.swing.JFrame;

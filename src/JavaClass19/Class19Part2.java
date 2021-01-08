@@ -1,3 +1,5 @@
+package JavaClass19;
+
 /*
 This program creates a simple timer application with a "Start"
 and "Stop" button that displays the time elapsed since the 

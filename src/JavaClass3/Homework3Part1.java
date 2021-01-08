@@ -1,3 +1,5 @@
+package JavaClass3;
+
 public class Homework3Part1 {
 	public static void main(String[] args) {
 		displayDiamond("$", 5);

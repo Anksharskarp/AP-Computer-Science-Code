@@ -1,3 +1,5 @@
+package JavaClass20;
+
 /*
 A simple painting app that allows the user to 
 switch between different colors.

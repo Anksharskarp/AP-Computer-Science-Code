@@ -1,3 +1,5 @@
+package JavaClass14;
+
 /*
 Find all numbers with between 1 and 10,000 with the following feature:
 the sum of the cubes of its digits is equal to the number itself.
