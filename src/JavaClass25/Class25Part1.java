@@ -15,7 +15,7 @@ public class Class25Part1 {
         frame.setVisible(true);
     }
 
-    public static void main(String... argv) {
+    public static void main(String[] args) {
         new Class25Part1();
     }
 

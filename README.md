@@ -16,3 +16,7 @@ The workspace contains two folders by default, where:
 ## Dependency Management
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+
+## Troubleshooting
+
+If you encounter a `Failed to Load Main Class` or `Main Class Not Found` error, simply restart the Java Language Workspace by pressing `Cmd`+`Shift`+`P` and selecting `Restart and Delete Java Language Workspace.` Otherwise, try updating the Project Manager for Java in Visual Studio Code. 
