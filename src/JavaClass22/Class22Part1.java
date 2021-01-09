@@ -15,6 +15,9 @@ public class Class22Part1 {
         Integer intObj2 = new Integer(3);
         int k = intObj2.intValue();
 
+        System.out.println(j);
+        System.out.println(k);
+
         System.out.println(intObj.equals(intObj2));
         System.out.println(intObj.intValue() == intObj2.intValue());
         //Error: System.out.println(k.equals(j));

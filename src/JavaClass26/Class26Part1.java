@@ -1,6 +1,7 @@
+package JavaClass26;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class Class26Part1 {
     private JFrame frame;
@@ -22,45 +23,44 @@ public class Class26Part1 {
     public static class cPanel extends JPanel {       
         
         /**
-		 *
-		 */
-		private static final long serialVersionUID = 6722892851360287178L;
+         *
+         */
+        private static final long serialVersionUID = 8017218446654843241L;
 
-		public cPanel(Dimension dimension) {
+        public cPanel(Dimension dimension) {
             setSize(dimension);            
         }
 
         @Override
         public void paintComponent(Graphics g) {
+        	drawYinYang(g, 100, Color.black, Color.white);
+            
         }
 
-        public void drawYinYang(Graphics g, int diameter, Color c1, Color c2) {
-            Graphics2D g2 = (Graphics2D)g;
-            Dimension d = getSize();
 
-            g2.setColor(c1);
+        public void drawYinYang(Graphics g, int diameter, Color c1, Color c2) {
+
+        	Graphics2D g2 = (Graphics2D)g;
+            Dimension d = getSize();
+            
+            g2.setColor(c1); 
             g2.fillArc(0, 0, diameter, diameter, 0, 180);
-            g2.setColor(c2);
+            g2.setColor(c2); 
             g2.fillArc(0, 0, diameter, diameter, 0, -180);
             
             g2.setColor(c2); 
-            g2.fillArc(0, diameter/ 4, diameter / 2, diameter / 2, 0, 180);
-            
+            g2.fillArc(0, diameter/4, diameter/2, diameter/2, 0, 180);
+ 
             g2.setColor(c1); 
-            g2.fillArc(diameter / 2, diameter / 4, diameter / 2, diameter / 2, 0, -180);
-            
+            g2.fillArc(diameter/2, diameter/4,  diameter/2,  diameter/2, 0, -180);
+
+            g2.setColor(c1); 
+            g2.fillArc(diameter/4-diameter/8, diameter/2-diameter/8, diameter/4, diameter/4, 0, 360);
+ 
             g2.setColor(c2); 
-            g2.fillArc(diameter / 4 - diameter / 8, diameter / 2 - diameter / 8, diameter / 4, diameter / 4, 0, 360);
- 
-            g2.setColor(Color.black); 
-            g2.fillArc(50, 25, 50, 50, 0, -180);
+            g2.fillArc(diameter*3/4 - diameter/8, diameter/2-diameter/8, diameter/4, diameter/4, 0, 360);
 
-            g2.setColor(Color.black); 
-            g2.fillArc(13, 37, 25, 25, 0, 360);
- 
-            g2.setColor(Color.white); 
-            g2.fillArc(63, 37, 25, 25, 0, 360);
         }
-
     }
-}   
+    
+}

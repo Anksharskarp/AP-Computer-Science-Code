@@ -83,7 +83,6 @@ public class Homework10Part1 extends JPanel implements ActionListener, MouseList
 
     @Override
     public void mouseClicked(MouseEvent e) {
-        // TODO Auto-generated method stub
         for (int i = 0; i < 100; i++) {
             if ((Math.abs(e.getX() - x[i]) < radius[i]) && (Math.abs(e.getY() - y[i]) < radius[i])) {
                 show[i] = false;
@@ -93,25 +92,21 @@ public class Homework10Part1 extends JPanel implements ActionListener, MouseList
 
     @Override
     public void mousePressed(MouseEvent e) {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void mouseReleased(MouseEvent e) {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void mouseEntered(MouseEvent e) {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void mouseExited(MouseEvent e) {
-        // TODO Auto-generated method stub
 
     }
 }
