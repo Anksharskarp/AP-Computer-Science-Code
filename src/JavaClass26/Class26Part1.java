@@ -34,7 +34,6 @@ public class Class26Part1 {
         @Override
         public void paintComponent(Graphics g) {
         	drawYinYang(g, 100, Color.black, Color.white);
-            
         }
 
 
