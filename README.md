@@ -17,6 +17,13 @@ The workspace contains two folders by default, where:
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
-## Troubleshooting
+## Troubleshooting (I)
 
 If you encounter a `Failed to Load Main Class` or `Main Class Not Found` error, simply restart the Java Language Workspace by pressing `Cmd`+`Shift`+`P` and selecting `Restart and Delete Java Language Workspace.` Otherwise, try updating the Project Manager for Java in Visual Studio Code. 
+
+## Troubleshooting (II)
+
+If the above solution still doesn't work, then install the Eclipse New Java Project extension from Andrew Mellen. It creates special folders, such as a `.classpath`, a `.project`, and a `bin` folder than includes complied binaries for the code. This can be emulated in other popular Java code editors such as IntelliJ IDEA and Eclipse, where a `New Project` button can help add the additional necessary files for successful compilation of the code. 
+
+
+**Note: Once you rebuild the project, make sure you add in the `package` keyword, which has important information about the folder in which the `.java` code file resides.
