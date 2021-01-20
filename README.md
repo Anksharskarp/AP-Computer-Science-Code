@@ -27,3 +27,9 @@ If the above solution still doesn't work, then install the Eclipse New Java Proj
 
 
 **Note: Once you rebuild the project, make sure you add in the `package` keyword, which has important information about the folder in which the `.java` code file resides.
+
+## Completed Homework Assignments:
+
+- Class #27 (Submitted)
+- Class #1 to Class #16
+- Class #28 (Submitted)

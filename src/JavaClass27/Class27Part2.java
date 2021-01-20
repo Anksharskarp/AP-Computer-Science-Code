@@ -19,7 +19,6 @@ import java.awt.event.*;
 
 import javax.swing.JButton;
 import javax.swing.*;
-import java.util.*;
 
 public class Class27Part2 extends JFrame {
 
@@ -32,7 +31,7 @@ public class Class27Part2 extends JFrame {
     long startTime;
     long stopTime;
 
-    Class27Part2() {
+    public Class27Part2() {
         setSize(400, 400);
         setLayout(new GridLayout(2, 2));
 
