@@ -14,7 +14,7 @@ arr[i] = 0;
 (D) II and III only
 (E) I, II, and III
 
-Answer: D
+Answer: E
 
 2. The following program segment is intended to find the index of the first negative
 integer in arr[0] . . . arr[N-1], where arr is an array of N integers.
@@ -31,4 +31,4 @@ This segment will work as intended
 (D) whenever arr contains at least one nonnegative integer.
 (E) whenever arr contains no negative integers.
 
-Answer: A
+Answer: C
