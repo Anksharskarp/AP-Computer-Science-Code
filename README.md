@@ -30,6 +30,7 @@ If the above solution still doesn't work, then install the Eclipse New Java Proj
 
 ## Completed Homework Assignments:
 
-- Class #27 (Submitted)
 - Class #1 to Class #16
+- Class #27 (Submitted)
 - Class #28 (Submitted)
+- Class #29 (Submitted)
