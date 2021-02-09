@@ -39,7 +39,6 @@ public class Class29Part1 extends JFrame {
         // setSize(800, 600);
         numButtons = 400;
         buttons = new JButton[numButtons];
-        String buttonSymbols[] = new String[numButtons];
 
         Random r = new Random();
         //Generates random integers from 0 to 20 on the 20x20 grid of buttons.

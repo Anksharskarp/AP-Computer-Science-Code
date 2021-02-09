@@ -40,7 +40,6 @@ public class Class26Part1 {
         public void drawYinYang(Graphics g, int diameter, Color c1, Color c2) {
 
         	Graphics2D g2 = (Graphics2D)g;
-            Dimension d = getSize();
             
             g2.setColor(c1); 
             g2.fillArc(0, 0, diameter, diameter, 0, 180);
