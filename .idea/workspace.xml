@@ -1,11 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4707819-e5b3-43ef-bb8f-93a6d1f11ee5" name="Default Changelist" comment="" />
+    <list default="true" id="b4707819-e5b3-43ef-bb8f-93a6d1f11ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass30/Homework30Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass30/Homework30Part2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Part4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Class31Part5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Part5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Part5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Class1Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Class1Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Homework1Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Homework1Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass1/Homework1Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass1/Homework1Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass10/Class10Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass10/Class10Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass10/Class10Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass10/Class10Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass10/Class10Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass10/Class10Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass10/Homework10Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass10/Homework10Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass10/Homework10Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass10/Homework10Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Class11Part6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Class11Part6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Homework11Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Homework11Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass11/Homework11Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass11/Homework11Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass12/Class12Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass12/Class12Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass12/Class12Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass12/Class12Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass12/Homework12Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass12/Homework12Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass12/Homework12Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass12/Homework12Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass13/Class13Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass13/Class13Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass13/Class13Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass13/Class13Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass13/Class13Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass13/Class13Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass13/Homework13Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass13/Homework13Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass13/Homework13Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass13/Homework13Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass14/Class14Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass14/Class14Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass14/Class14Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass14/Class14Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass14/Homework14Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass14/Homework14Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass14/Homework14Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass14/Homework14Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass15/Class15Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass15/Class15Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass15/Class15Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass15/Class15Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass15/Homework15Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass16/Class16Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass16/Class16Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass16/Class16Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass16/Class16Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass16/Homework16Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Class17Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Class17Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Class17Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass17/Homework17Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass18/Class18Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass18/Class18Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass19/Class19Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Class2Part6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Class2Part6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass2/Homework2Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Class20Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass20/Homework20Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass21/Class21Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass21/Class21Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass21/Class21Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass21/Class21Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass21/Homework21Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass21/Homework21Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass22/Class22Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass22/Class22Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass22/Homework22Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass22/Homework22Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1$TimerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1$TimerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Class23Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1$TimerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1$TimerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass23/Homework23Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass24/Class24Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass24/Class24Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass25/Class25Part1$cPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass25/Class25Part1$cPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass25/Class25Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass25/Class25Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass25/Homework25Part1$cPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass25/Homework25Part1$cPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass25/Homework25Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass25/Homework25Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass26/Class26Part1$cPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass26/Class26Part1$cPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass26/Class26Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass26/Class26Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass26/Homework26Part1$cPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass26/Homework26Part1$cPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass26/Homework26Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass26/Homework26Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Class27Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Class27Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Class27Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass27/Homework27Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass28/Class28Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass28/Class28Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass28/Class28Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass28/Class28Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass28/Homework28Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass28/Homework28Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass28/Homework28Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass28/Homework28Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass29/Class29Part1$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass29/Class29Part1$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass29/Class29Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass29/Class29Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass29/Homework29Part1$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass29/Homework29Part1$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass29/Homework29Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass29/Homework29Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Class3Part7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Class3Part7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Homework3Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Homework3Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass3/Homework3Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass3/Homework3Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass30/Class30Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass30/Class30Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass30/Class30Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass30/Class30Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Class4Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Class4Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Class4Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Class4Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Class4Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Class4Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Class4Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Class4Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Homework4Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Homework4Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass4/Homework4Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass4/Homework4Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Class5Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Class5Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Class5Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Class5Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Class5Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Class5Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Class5Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Class5Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Homework5Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass5/Homework5Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass5/Homework5Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Class6Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Class6Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Class6Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Class6Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Class6Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Class6Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Class6Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Class6Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Class6Part5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Class6Part5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Homework6Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Homework6Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass6/Homework6Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass6/Homework6Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Class7Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Class7Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Class7Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Class7Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Class7Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Class7Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Class7Part4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Class7Part4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Homework7Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Homework7Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass7/Homework7Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass7/Homework7Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass8/Class8Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass8/Class8Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass8/Class8Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass8/Class8Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass8/Class8Part3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass8/Class8Part3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass8/Homework8Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass8/Homework8Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass8/Homework8Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass8/Homework8Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass9/Class9Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass9/Class9Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass9/Class9Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass9/Class9Part2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass9/Homework9Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass9/Homework9Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass9/Homework9Part2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass9/Homework9Part2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,10 +197,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="1oDFReVrnDFprkr1qHaZxQIaM3n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +208,85 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.Class31Part4">
+    <configuration name="Class31Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part1" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class31Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part2" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class31Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part3" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class31Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part4" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework30Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass30.Homework30Part1" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Class31Part4" />
+        <item itemvalue="Application.Class31Part3" />
+        <item itemvalue="Application.Class31Part2" />
+        <item itemvalue="Application.Class31Part1" />
+        <item itemvalue="Application.Homework30Part1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,5 +298,16 @@
       <updated>1612813253999</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
