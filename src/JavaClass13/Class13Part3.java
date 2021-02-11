@@ -12,7 +12,6 @@ NOTE:
 We will finish this program in Class14
 */
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 
 public class Class13Part3 extends JFrame{
@@ -20,9 +19,6 @@ public class Class13Part3 extends JFrame{
      *
      */
     private static final long serialVersionUID = 1528381673975130910L;
-    private int count1 = 0;
-    private int count2 = 0;
-    private int count3 = 0;
     /*
     All of these are text fields and button objects that we can use. They
     were imported from JFrame.
@@ -30,8 +26,6 @@ public class Class13Part3 extends JFrame{
     fields. Private is more secure -- it ensures other programs cannot change
     your data, but it can cause some errors if used improperly.
     */
-    private JTextField field1, field2, field3;
-    private JButton button1;
 
     //We need to add the fields to our panel (the window the user sees)
     public Class13Part3() {

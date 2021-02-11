@@ -5,7 +5,6 @@ public class Class17Part1 {
         //ans is just a reference data type, so it just points
         //to obj. It doesn't have its own memory slot.
         Class17Part1 ans = obj;
-        ans++;
         return ans;
     }
 
@@ -16,6 +15,7 @@ public class Class17Part1 {
         Class17Part1 x = new Class17Part1(2);
         Class17Part1 y = new Class17Part1(7);
         Class17Part1 a = y;
+        System.out.println(a);
         x = someMethod(y);
         a = someMethod(x);
     }
