@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4707819-e5b3-43ef-bb8f-93a6d1f11ee5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1612813253999</updated>
     </task>
+    <task id="LOCAL-00001" summary="Nearly towards the end of class, started on the money change calculator application.">
+      <created>1614125102761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614125102761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nearly towards the end of class, started on the money change calculator application." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nearly towards the end of class, started on the money change calculator application." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$Class31Part4.ic" NAME="Class31Part4 Coverage Results" MODIFIED="1614123409939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
