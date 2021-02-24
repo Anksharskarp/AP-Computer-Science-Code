@@ -47,4 +47,4 @@ return t;
 (D) It sorts x in descending order and returns the largest value in x.
 (E) It returns x[0] or x[n-1], whichever is larger.
 
-Answer:
+Answer: A

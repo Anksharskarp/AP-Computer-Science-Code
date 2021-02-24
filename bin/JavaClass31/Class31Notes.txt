@@ -13,3 +13,9 @@ and the linear search.
    - Branching processes like traversing trees or directories.
    - Divide-and-conquer algorithms like mergesort and binary search.
 ----------
+Tips and Tricks for Solving Recursion Problems
+----------
+- When you are stuck on a tough recursion problem, write out the order that the program calls the
+functions. Does it call this function first, and while it calls it, what other functions does it call?
+How often does it call the functions until it stops and moves back up the function "hierarchy" to call
+the function above the other functions? You need to think about this as you do the problems.

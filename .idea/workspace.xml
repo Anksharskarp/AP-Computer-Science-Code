@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4707819-e5b3-43ef-bb8f-93a6d1f11ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Homework31Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Homework31Part2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-15.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/text/Document.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-15.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/event/DocumentListener.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1oDFReVrnDFprkr1qHaZxQIaM3n" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Class31Part4">
+  <component name="RunManager" selected="Application.Class32Part1">
     <configuration name="Class31Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part1" />
       <module name="Test" />
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework30Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaClass30.Homework30Part1" />
+    <configuration name="Class32Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass32.Class32Part1" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass30.*" />
+          <option name="PATTERN" value="JavaClass32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class32Part1" />
         <item itemvalue="Application.Class31Part4" />
         <item itemvalue="Application.Class31Part3" />
         <item itemvalue="Application.Class31Part2" />
         <item itemvalue="Application.Class31Part1" />
-        <item itemvalue="Application.Homework30Part1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +153,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$Class31Part4.ic" NAME="Class31Part4 Coverage Results" MODIFIED="1614123409939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>JavaClass31.*</FILTER>
+    </SUITE>
   </component>
 </project>
