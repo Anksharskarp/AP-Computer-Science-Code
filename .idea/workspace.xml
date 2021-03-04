@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4707819-e5b3-43ef-bb8f-93a6d1f11ee5" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Class31Part5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Class31Part5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Homework31Part1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Homework31Part1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Homework31Part1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass31/Homework31Part2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/JavaClass32/Class32Part1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Homework31Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass31/Homework31Part2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass32/Class32Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass30/Homework30Part2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JavaClass31/Class31Notes.txt" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +74,14 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.Class32Part1">
+=======
+  <component name="RunManager" selected="Application.Class31Part1">
+>>>>>>> Stashed changes
     <configuration name="Class31Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part1" />
-      <module name="Test" />
+      <module name="AP-Computer-Science-Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaClass31.*" />
@@ -71,7 +94,7 @@
     </configuration>
     <configuration name="Class31Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part2" />
-      <module name="Test" />
+      <module name="AP-Computer-Science-Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaClass31.*" />
@@ -84,7 +107,7 @@
     </configuration>
     <configuration name="Class31Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part3" />
-      <module name="Test" />
+      <module name="AP-Computer-Science-Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaClass31.*" />
@@ -97,7 +120,7 @@
     </configuration>
     <configuration name="Class31Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass31.Class31Part4" />
-      <module name="Test" />
+      <module name="AP-Computer-Science-Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaClass31.*" />
@@ -108,9 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="Class32Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClass32.Class32Part1" />
       <module name="Test" />
+=======
+    <configuration name="Homework30Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClass30.Homework30Part1" />
+      <module name="AP-Computer-Science-Code" />
+>>>>>>> Stashed changes
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaClass32.*" />
