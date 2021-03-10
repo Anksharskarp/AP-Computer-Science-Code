@@ -62,3 +62,5 @@ sketch(xm, ym, x2, y2, n - 1);
 Assume that the screen looks like aCartesian coordinate system with the origin at the center, and
 that drawLine connects (x1,y1) to (x2,y2). Which picture best represents the sketch drawn by
 the method call sketch(a, 0, -a, 0, 2). where a is a positive integer?
+
+Answer: B
